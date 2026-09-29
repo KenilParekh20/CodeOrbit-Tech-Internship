@@ -1,0 +1,2 @@
+[ ] Review internship Python submission
+[x] Prepare demo presentation
